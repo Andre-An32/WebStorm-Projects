@@ -1,0 +1,32 @@
+[33mcommit 9424d7c12b14cf614e64361489a91ff1f1ded915[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: BoneFort <kmoj577@gmail.com>
+Date:   Tue Nov 8 14:14:49 2022 +0200
+
+            новый файл:    .editorconfig
+            новый файл:    .env.example
+            новый файл:    .eslintignore
+            новый файл:    .eslintrc
+            новый файл:    .gitignore
+            новый файл:    README.md
+            новый файл:    config/admin.js
+            новый файл:    config/api.js
+            новый файл:    config/database.js
+            новый файл:    config/middlewares.js
+            новый файл:    config/server.js
+            новый файл:    database/migrations/.gitkeep
+            новый файл:    error.html
+            новый файл:    favicon.png
+            новый файл:    home.html
+            новый файл:    linux.html
+            новый файл:    main.js
+            новый файл:    package-lock.json
+            новый файл:    package.json
+            новый файл:    public/robots.txt
+            новый файл:    public/uploads/.gitkeep
+            новый файл:    server.js
+            новый файл:    src/admin/app.example.js
+            новый файл:    src/admin/webpack.config.example.js
+            новый файл:    src/api/.gitkeep
+            новый файл:    src/extensions/.gitkeep
+            новый файл:    src/index.js
+            новый файл:    windows.html
